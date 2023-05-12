@@ -1,0 +1,115 @@
+@important url('https://fonts.googleapis.com/css2?family');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+    border: 1px solid #b65454!important;
+}
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border: 1px solid #b65454!important;
+
+}
+header, section, form{
+    background: #3A9B1E!important;
+}
+.universite{
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+}
+.slid{
+    font-size: 22px;
+    text-align: center;
+    color: #fff;
+}
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 40px!important;
+    background: #fff;
+    color: #3A9B1E;
+    box-shadow: 0.5px 5px 5px #b9b6b6;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+
+}
+/*formulaire*/
+.formul{
+    background-color: #3A9B1E!important;
+    border-radius: 10px!important;
+    overflow: hidden!important;
+    border-top: 2px solid rgba(0, 0, 0, 0.034);
+    box-shadow: 1px 2.8px 2.8px rgba(0, 0, 0, 0.034), 0 2.8px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0,0,0,0.048), 0 12.8px 10.5px rgba(0, 0, 0, 0.58)!important;
+    width: 680px!important;
+    max-width: 100%!important;
+}
+.head{
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+}
+.form-control{
+    background: #3A9B1E;
+    border: none!important;
+    margin-bottom: 30px!important;
+    display: flex!important;
+}
+
+.form-control{
+
+}
+.form-control label{
+    width: 300px!important;
+    margin-bottom: 10px;
+    text-align: justify!important;
+    margin-left: 10px!important;
+}
+.form-control input, .option{
+    width: 50%;
+    margin-left: 60px;
+    border: 2px solid #f0f0f0;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-left: 230px!important;
+    padding: 12px;
+    /* display: block; */
+}
+
+.register{
+    margin-left: 190px!important;
+    /* padding-left: 20px!important; */
+}
+
+/*footer*/
+.footer-top{
+    background-color: #fff!important;
+    /* border: 1px solid #3A9B1E; */
+}
+
+.lex{
+    justify-content: center!important;
+    justify-items: center!important;
+    text-align: center!important;
+    color: #3A9B1E;
+}
+.devise{
+
+    display: flex;
+    justify-content: center;
+}
+.down{
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+}
+.footer-down{
+    background: #064D1B;
+}
